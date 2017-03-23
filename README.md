@@ -11,8 +11,8 @@ Indian Netizens Party
 * This political platform will make the developers feel as part of their contribution towards nation building.
 * This political platform creates its own social network with the active  participation of the Netizens to resolve their civic issues.
 * This political platform is the fusion between technology, people, society and politics.
-* Current status of this platform is WIP at concept stage.
-* Next Steps - Preparing Core Architecture & Technical Architecture presentations.
+* Current status of this platform is **WIP** at concept stage.
+* **Next Steps** - Preparing Core Architecture & Technical Architecture presentations.
 * Please share your thoughts and ideas in the project wiki.
 * Please kindly get involved into this project to take it further.
 
