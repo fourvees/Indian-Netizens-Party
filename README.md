@@ -3,7 +3,7 @@ Indian Netizens Party
 
 * World's first Internet based political platform from India.
 * This unique party is architected on the lines of a DAO (Democratic Autonomous Organisation) and is governed by a Techno Civil Society and its Netizens.
-* The leaders of the party are elected by a software algorithm based on predictive analytics using Machine Learning with the inputs of the Civil Society & Netizens for the betterment of their future.
+* The leaders of the party are nominated and decided by a software algorithm based on predictive analytics using Machine Learning with the inputs of the Civil Society & Netizens for the betterment of their future.
 * This political platform will make use of blockchains for entering into contracts between the members of the party and the civil society.
 * This political platform will bring utmost transparency in the functioning of the party with the involvement of the Netizens.
 * This political platform will be registered under "Representation of the People Act, 1951" with ECI and may contest assembly and parliamentary elections in India in the future.
